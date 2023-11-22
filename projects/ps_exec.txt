@@ -1,0 +1,90 @@
+root         642       1  0 11:10 ?        00:00:00 /usr/libexec/switcheroo-control
+rtkit        831       1  0 11:10 ?        00:00:00 /usr/libexec/rtkit-daemon
+colord      1530       1  0 11:11 ?        00:00:00 /usr/libexec/colord
+gdm         7072    7051  0 16:23 ?        00:00:00 /usr/libexec/tracker-miner-fs
+gdm         7088    7051  0 16:23 ?        00:00:00 /usr/libexec/gvfsd
+gdm         7094    7051  0 16:23 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/126/gvfs -f -o big_writes
+gdm         7126    7051  0 16:23 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+gdm         7154    7051  0 16:23 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+gdm         7159    7051  0 16:23 ?        00:00:00 /usr/libexec/goa-daemon
+gdm         7168    7165  0 16:23 tty2     00:00:00 /usr/libexec/gnome-session-binary --systemd --autostart /usr/share/gdm/greeter/autostart
+gdm         7182    7051  0 16:23 ?        00:00:00 /usr/libexec/goa-identity-service
+gdm         7195    7051  0 16:23 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+gdm         7204       1  0 16:23 tty2     00:00:00 /usr/libexec/at-spi-bus-launcher
+gdm         7212    7051  0 16:23 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+gdm         7218    7051  0 16:24 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+gdm         7281    7278  0 16:24 tty2     00:00:00 /usr/libexec/ibus-memconf
+gdm         7285       1  0 16:24 tty2     00:00:00 /usr/libexec/ibus-x11 --kill-daemon
+gdm         7292       1  0 16:24 tty2     00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+gdm         7295       1  0 16:24 tty2     00:00:00 /usr/libexec/ibus-portal
+gdm         7300       1  0 16:24 tty2     00:00:00 /usr/libexec/xdg-permission-store
+gdm         7321    7168  0 16:24 tty2     00:00:00 /usr/libexec/gsd-sharing
+gdm         7322    7168  0 16:24 tty2     00:00:00 /usr/libexec/gsd-wacom
+gdm         7324    7168  0 16:24 tty2     00:00:00 /usr/libexec/gsd-color
+gdm         7326    7168  0 16:24 tty2     00:00:00 /usr/libexec/gsd-keyboard
+gdm         7328    7168  0 16:24 tty2     00:00:00 /usr/libexec/gsd-print-notifications
+gdm         7329    7168  0 16:24 tty2     00:00:00 /usr/libexec/gsd-rfkill
+gdm         7331    7168  0 16:24 tty2     00:00:00 /usr/libexec/gsd-smartcard
+gdm         7336    7168  0 16:24 tty2     00:00:00 /usr/libexec/gsd-datetime
+gdm         7339    7278  0 16:24 tty2     00:00:00 /usr/libexec/ibus-engine-simple
+gdm         7340    7168  0 16:24 tty2     00:00:00 /usr/libexec/gsd-media-keys
+gdm         7344    7168  0 16:24 tty2     00:00:00 /usr/libexec/gsd-screensaver-proxy
+gdm         7345    7168  0 16:24 tty2     00:00:00 /usr/libexec/gsd-sound
+gdm         7349    7168  0 16:24 tty2     00:00:00 /usr/libexec/gsd-a11y-settings
+gdm         7351    7168  0 16:24 tty2     00:00:00 /usr/libexec/gsd-housekeeping
+gdm         7357    7168  0 16:24 tty2     00:00:00 /usr/libexec/gsd-power
+gdm         7386       1  0 16:24 tty2     00:00:00 /usr/libexec/gsd-printer
+sushant     7470    7462  0 16:24 ?        00:00:00 /usr/libexec/tracker-miner-fs
+sushant     7481    7462  0 16:24 ?        00:00:00 /usr/libexec/gvfsd
+sushant     7486    7462  0 16:24 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+sushant     7499    7462  0 16:24 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+sushant     7515    7462  0 16:24 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+sushant     7519    7462  0 16:24 ?        00:00:00 /usr/libexec/goa-daemon
+sushant     7530    7462  0 16:24 ?        00:00:00 /usr/libexec/goa-identity-service
+sushant     7540    7462  0 16:24 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+sushant     7545    7462  0 16:24 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+sushant     7550    7462  0 16:24 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+sushant     7559    7525  0 16:24 tty3     00:00:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+sushant     7653    7462  0 16:24 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+sushant     7673    7462  0 16:24 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+sushant     7680    7462  0 16:24 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+sushant     7722    7718  0 16:24 ?        00:00:00 /usr/libexec/ibus-memconf
+sushant     7723    7718  0 16:24 ?        00:00:01 /usr/libexec/ibus-extension-gtk3
+sushant     7727    7462  0 16:24 ?        00:00:00 /usr/libexec/ibus-x11 --kill-daemon
+sushant     7729    7462  0 16:24 ?        00:00:00 /usr/libexec/ibus-portal
+sushant     7739    7462  0 16:24 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+sushant     7743    7462  0 16:24 ?        00:00:00 /usr/libexec/xdg-permission-store
+sushant     7745    7462  0 16:24 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+sushant     7756    7462  0 16:24 ?        00:00:00 /usr/libexec/evolution-source-registry
+sushant     7764    7462  0 16:24 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+sushant     7775    7462  0 16:24 ?        00:00:00 /usr/libexec/dconf-service
+sushant     7777    7462  0 16:24 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+sushant     7799    7481  0 16:24 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.2 /org/gtk/gvfs/exec_spaw/0
+sushant     7812    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+sushant     7813    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-color
+sushant     7814    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-datetime
+sushant     7816    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-housekeeping
+sushant     7818    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-keyboard
+sushant     7820    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-media-keys
+sushant     7825    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-power
+sushant     7827    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-print-notifications
+sushant     7830    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-rfkill
+sushant     7831    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+sushant     7833    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-sharing
+sushant     7841    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-smartcard
+sushant     7843    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-sound
+sushant     7847    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-usb-protection
+sushant     7851    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-wacom
+sushant     7853    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-wwan
+sushant     7861    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-xsettings
+sushant     7881    7680  0 16:24 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+sushant     7888    7680  0 16:24 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+sushant     7893    7718  0 16:24 ?        00:00:00 /usr/libexec/ibus-engine-simple
+sushant     7909    7462  0 16:24 ?        00:00:00 /usr/libexec/gsd-printer
+sushant     7996    7462  0 16:25 ?        00:00:00 /usr/libexec/gnome-terminal-server
+sushant     8090    7462  0 16:25 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+sushant     8105    7462  0 16:25 ?        00:00:00 /usr/libexec/xdg-document-portal
+sushant     8121    7462  0 16:25 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+root        8305       1  0 16:25 ?        00:00:00 /usr/libexec/fwupd/fwupd
+sushant     8339    7462  0 16:25 ?        00:00:00 /usr/libexec/gvfsd-metadata
+sushant     8968    8422  0 16:38 pts/1    00:00:00 grep --color=auto libexec
